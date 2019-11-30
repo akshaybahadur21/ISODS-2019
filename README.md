@@ -9,4 +9,4 @@ This repository contains details for my session at The International Society of 
 
 ### [LinkedIn mention](https://www.linkedin.com/feed/update/urn:li:activity:6606569671762157569/)
 
-<img src="https://github.com/akshaybahadur21/SODS-2019/blob/master/info.gif">
+<img src="https://github.com/akshaybahadur21/ISODS-2019/blob/master/info.jpg">
