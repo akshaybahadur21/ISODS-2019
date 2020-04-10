@@ -8,5 +8,10 @@ This repository contains details for my session at The International Society of 
 ## [Colab link](https://colab.research.google.com/drive/1ZKeTuxYcN8JdM2tTtJE6wC9PF5sICjuW) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZKeTuxYcN8JdM2tTtJE6wC9PF5sICjuW)
 
 ### [LinkedIn mention](https://www.linkedin.com/feed/update/urn:li:activity:6606569671762157569/)
+### [ISODS Article](https://www.isods.org/news-times/item/10-the-inaugural-international-data-science-ai-conference-dec-1-2019)
 
 <img src="https://github.com/akshaybahadur21/ISODS-2019/blob/master/info.jpg">
+
+## Entire Speaker Panel
+
+<img src="https://github.com/akshaybahadur21/ISODS-2019/blob/master/speakers.jpg">
